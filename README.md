@@ -1,6 +1,8 @@
 # RAR Studio
 
-![RAR Studio app icon](app_icon.png)
+<p align="center">
+  <img src="app_icon.png" width="128" height="128">
+</p>
 
 A small RAR archive maker for macOS on Apple silicon.
 
